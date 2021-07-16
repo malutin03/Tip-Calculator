@@ -1,0 +1,7 @@
+#Fri Jul 16 08:48:00 IRKT 2021
+base.1=F\:\\AndroidStudioProjects\\Tip Calculator\\Tip Calculator\\task\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.1=classes.dex
+base.0=F\:\\AndroidStudioProjects\\Tip Calculator\\Tip Calculator\\task\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
